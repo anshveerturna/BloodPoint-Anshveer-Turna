@@ -141,5 +141,5 @@ which improved our abilities as computer engineers.
 - JFrame
 
 ### Project Team
-Krishna Dubey, Pankaj Kumar Giri (Collective Contribution)
+Anshveer Turna, Manas Paul, Kunal Gupta, Kunal Kumar, Hemant Dhaulakhandi
 
